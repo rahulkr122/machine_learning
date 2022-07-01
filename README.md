@@ -1,4 +1,4 @@
-machine_learning_examples
+machine_learning_examples --taken from internet and other sources
 =========================
 
 A collection of machine learning examples and tutorials.
